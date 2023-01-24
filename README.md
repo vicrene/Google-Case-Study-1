@@ -9,7 +9,7 @@ The following work is part of an 8-course Google Data Analytics Certificate that
 
 **[Github R Code](https://github.com/vicrene/Google-Case-Study-1/blob/master/Cyclistic_CaseStudy.R)**
 
-**[Tableau Data Viz](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1)**
+**[Tableau (Public) Data Viz](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1)**
 
 **email:** renegarciajr5@gmail.com
 
@@ -102,7 +102,7 @@ I was surprised to see that there are more members than casual riders, however, 
 Keeping the above in mind, it’s helpful to try to connect the dots with the idea that perhaps the casual users are tourists or people that might not regularly live near the city. This hypothesis can be supported by the observation that casual riders predominantly ride on the weekends. If we take into account the fact that many less people work on the weekend or might be visiting on the weekend, then it might explain the excess. Casual riders also tend to ride a lot less during the colder months and are right at or even surpass the member rider category during the warmer months. Possible ideas as to why includes: students have a lot more free time to explore the city, more people vacationing in the summer than the winter or fall months, & summer and spring activities bring more events, such as festivals and markets to the city, which encourage bike share experiences.
 
 ## Share 
-### For my Data Visualizations, please check out my [Tableau](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1).
+### For my Data Visualizations, please check out my [Tableau (Public)](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1).
 
 - **Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently?** 
 
