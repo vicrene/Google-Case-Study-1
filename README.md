@@ -5,6 +5,16 @@
 ----------------------------------------------------------
 The following work is part of an 8-course Google Data Analytics Certificate that concludes with a case study, in this case, using data from [Divvy](https://divvy-tripdata.s3.amazonaws.com/index.html) under the name "Cyclistics". I have used the six steps of the data analysis process learned through out the 8 courses in the Google Data Analytics program to answer key business questions. Ask, prepare, process, analyze, share, and act.
 
+**[Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleDataAnalytics-US&utm_content=B2C&campaignid=12504215975&adgroupid=149456125571&device=c&keyword=&matchtype=&network=g&devicemodel=&adpostion=&creativeid=636585380071&hide_mobile_promo&gclid=CjwKCAiAoL6eBhA3EiwAXDom5uU49f40FvgCx2oHcuga_xvYvt7VmUempOfuCGbxn66Gjj3L8ezsPBoCWqUQAvD_BwE)**
+
+**[Github R Code](https://github.com/vicrene/Google-Case-Study-1/blob/master/Cyclistic_CaseStudy.R)**
+
+**[Tableau Data Viz](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1)**
+
+**email:** renegarciajr5@gmail.com
+
+**[LinkedIn](https://www.linkedin.com/in/vicgarciaa/)**
+
 ## Scenario
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes differently. From these insights, your team will design a new marketing strategy to convert casual riders into annual members. But first, Cyclistic executives must approve your recommendations, so they must be backed up with compelling data insights and professional data visualizations.
 
