@@ -95,11 +95,11 @@ For notes on my data cleaning, please look at my R script [here](https://github.
 
 - **What trends or relationships did you find in the data?** 
 
-I was surprised to see that there are more members than casual riders, however, casual rider spent a lot more time per ride. Casual riders spent more time every day of the week on the bike, however, casual riders only spend more time than members on the weekends. Weekdays are predominantly Member riders.
+I was surprised to see that there are more members than casual riders, however, casual rider spent a lot more time per ride. Casual riders spent more time every day of the week on the bike, however, casual riders only spend more time than members on the weekends. Weekdays are predominantly member riders.
 
 - **How will these insights help answer your business questions?** 
 
-Keeping the above in mind, it’s helpful to try to connect the dots with the idea that perhaps the casual users are tourists or people that might not regularly live near the city. This hypothesis can be supported by the observation that casual riders predominantly ride on the weekends. If we take into account the fact that many less people work on the weekend or might be visiting on the weekend, then it might explain the excess. Casual riders also tend to ride a lot less during the colder months and are right at or even surpass the member rider category during the warmer months. Possible ideas as to why this is include: students that have a lot more free time to explore the city, a lot more people vacationing in the summer than the winter or fall months, & summer and spring activities bring more events, such as festivals and markets to the city, which encourage bike share experiences.
+Keeping the above in mind, it’s helpful to try to connect the dots with the idea that perhaps the casual users are tourists or people that might not regularly live near the city. This hypothesis can be supported by the observation that casual riders predominantly ride on the weekends. If we take into account the fact that many less people work on the weekend or might be visiting on the weekend, then it might explain the excess. Casual riders also tend to ride a lot less during the colder months and are right at or even surpass the member rider category during the warmer months. Possible ideas as to why includes: students have a lot more free time to explore the city, more people vacationing in the summer than the winter or fall months, & summer and spring activities bring more events, such as festivals and markets to the city, which encourage bike share experiences.
 
 ## Share 
 ### For my Data Visualizations, please check out my [Tableau](https://public.tableau.com/app/profile/vic.garcia/viz/CyclisticDashboard-VG/Dashboard1).
@@ -116,9 +116,9 @@ My audience would be the people who have a direct financial connection to the pr
 
 - **Is there additional data you could use to expand on your findings?**
 
-One thing that I left out because it was a bit challenging to navigate (and might have something to do with the way that I cleaned the data in R) is using the start/end latitudes and longitudes to create a data viz. Creating a data viz using this information to see how many rides are to a from the same station as well as the most concentrated amount of riders per area, per month, would be useful to figure out where advertisements can be implemented to attract those casual riders to add an annual membership. 
+One thing that I left out because it was a bit challenging to navigate (and might have something to do with the way that I cleaned the data in R) is using the start/end latitudes and longitudes to create a data viz. Creating a data viz using this information to see how many rides are to and from the same station as well as the most concentrated amount of riders per area, per month, would be useful to figure out where advertisements can be implemented to attract those casual riders to add an annual membership. 
 
-Another piece of data that wasn’t available but would be great for more insight would be having customer surveys. The best way, in my opinion, to go about this would be collecting data as to 1) why do they use the service, 2) what is something that holds them back from converting to an annual membership, 3) what services would they like to see added to Cyclistic. In return for casual rider feedback, they can get a 10-30% off of their ride for that specific trip. 
+Another piece of data that wasn’t available but would be great for more insight would be having customer surveys. The best way, in my opinion, to go about this would be collecting data as to 1) why do they use the service, 2) what is something that holds them back from converting to an annual membership, 3) what services would they like to see added to Cyclistic. In return for casual rider feedback, a 10-30% off coupon could be offered for their ride on that specific trip. 
 
 - **What is your conclusion based on your analysis? What next steps would you or your stakeholders take based on your findings?**
 
